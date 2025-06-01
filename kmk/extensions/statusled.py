@@ -108,9 +108,9 @@ class statusLED(Extension):
                     ("ESCAPE", 5, 50), ("ENTER", 60, 50),
                     ("SHARE", 5, 60), ("END", 60, 60),
                     ("ZOOM AUDIO", 68, 4), ("ZOOM VIDEO", 68, 15),
-                    ("HL W", 105, 54), ("AUDIO", 20, 26),
+                    ("HL W", 105, 54), ("AUDIO", 27, 26),
                     ("", 0, 32, 2), ("SLIDESHOW", 74, 26),
-                    ("GALLERY", 105, 38),
+                    ("GALLERY", 87, 38),
                 ],
             }
 
