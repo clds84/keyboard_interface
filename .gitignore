@@ -1,3 +1,5 @@
 boot.py
-boot_out.text
+boot_out.txt
 settings.toml
+.vscode
+.DS_Store
